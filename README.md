@@ -1,1 +1,0 @@
-# fut-db-server
